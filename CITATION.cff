@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference this particular framing of shaping, please cite the repository."
+title: "SHAPING: The Creative Practice of Developing Machine Intelligence"
+authors:
+  - family-names: "Madduma"
+    given-names: "Sineth"
+date-released: 2026-10-10
+version: 0.1.0
+url: "https://github.com/sinethxyz/shaping"
+license: "CC-BY-4.0"
+abstract: "A proposed human creative practice for developing machine-intelligence capabilities and behaviours through intention, examples, experimentation, and refinement."
