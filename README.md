@@ -1,5 +1,7 @@
 # shaping
 
+**Current orientation — 14 October 2026:** This is a private concept/documentation repository, not an implemented SHAPING product. Read [Future B scope, provenance and contributor route](FUTURE-B.md). For modelparadox product and engineering decisions, the [canonical Future B Product Contract](https://github.com/sinethxyz/modelparadox-meta/blob/main/FUTURE-B-PRODUCT-CONTRACT.md) is authoritative; the broader conceptual vocabulary here remains a proposal.
+
 ### Tell intelligence what to become.
 
 **A programmer works with instructions.**  
@@ -77,6 +79,7 @@ The expression **“works with intelligence itself”** names the creative objec
 
 ## Explore
 
+- [Future B relationship, verified state and open questions](FUTURE-B.md)
 - [Definition and scope](DEFINITION.md)
 - [The practice](PRACTICE.md)
 - [Glossary](GLOSSARY.md)
@@ -86,7 +89,11 @@ The expression **“works with intelligence itself”** names the creative objec
 
 ## Origin and stewardship
 
-This particular framing of **SHAPING** as a human creative practice for developing machine intelligence was proposed publicly by **Sineth Madduma** on **10 October 2026**.
+Author provenance claim, preserved from the founding text:
+
+> This particular framing of **SHAPING** as a human creative practice for developing machine intelligence was proposed publicly by **Sineth Madduma** on **10 October 2026**.
+
+The checked GitHub repository is private. [ORIGIN.md](ORIGIN.md) requests verified original-post and archival links; none is supplied there at the checked revision. The public-proposal date is therefore recorded as the author's claim, not independently verified publication or evidence that this repository is public. The original ORIGIN, CITATION and licence files remain unchanged.
 
 It is an open conceptual proposal connected to the longer-term vision for [modelparadox](https://modelparadox.com), not a declaration of ownership over the ordinary words “shaping” or “shaper,” and not a claim of having invented all related technical methods.
 
