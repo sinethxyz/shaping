@@ -1,53 +1,69 @@
-# SHAPING concept repository: Future B orientation
+# SHAPING and the Future B vision
 
-Checked 14 October 2026 against main [`720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0`](https://github.com/sinethxyz/shaping/tree/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0). The verified GitHub repository is private. This guide is also the source fallback for the unavailable wiki.
+**Status:** Conceptual orientation · October 2026
 
-This repository develops the conceptual account and vocabulary of SHAPING as a human creative practice. For modelparadox, Future B is committed: SHAPING is the intended activity and Creation the continuing developing product concept. The [Future B Product Contract](https://github.com/sinethxyz/modelparadox-meta/blob/main/FUTURE-B-PRODUCT-CONTRACT.md) is the single governing product contract; [Meta onboarding](https://github.com/sinethxyz/modelparadox-meta/blob/main/START-HERE.md) connects it to the actual engineering ecosystem.
+This document explains how the open SHAPING proposal relates to a possible future creative environment for developing machine intelligence. It is not an engineering contract, product roadmap, or statement that any proposed capability has already been built.
 
-## Ownership and boundaries
+## The distinction
 
-The repository owns proposed definitions, examples, critique, attribution and conceptual history. It contains no executable source, runtime, Creation store, supported intervention mechanism or test suite. Engine owns its actual engineering operations and records; product/architecture decisions remain in their owning repositories and attributable founder decisions. Conceptual prose here is not a substitute for either.
+**SHAPING** is the proposed creative practice of developing intelligent capabilities and behaviours through intention, demonstration, experimentation, evaluation, and refinement.
 
-The broader SHAPING proposal is not restricted to one company product, provider, assistant or engineering technique. Conversely, accepting an editorial change here does not adopt a modelparadox architecture, schema, workflow or legal policy. The seven movements in PRACTICE and the possible Creation contents are exploratory descriptions, not required interface primitives or a universal data model. The current ten-stage engineering prototype likewise does not mandate the final interaction.
+**A shaper** is a person engaged in that practice.
 
-## Read the actual source
+**A Creation** is the persistent, evolving result of that work.
 
-| Source at the checked revision | What it establishes | What it does not establish |
-| --- | --- | --- |
-| [DEFINITION.md](https://github.com/sinethxyz/shaping/blob/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0/DEFINITION.md) | Version 0.1 proposed definition, mechanisms and open questions | A validated creative medium or adopted architecture |
-| [PRACTICE.md](https://github.com/sinethxyz/shaping/blob/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0/PRACTICE.md) | Seven exploratory movements and hypothetical examples | Observed participant results, a mandatory linear workflow or an implemented Creation schema |
-| [GLOSSARY.md](https://github.com/sinethxyz/shaping/blob/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0/GLOSSARY.md) | Proposed shared vocabulary | An industry standard or replacement for established technical meanings |
-| [ORIGIN.md](https://github.com/sinethxyz/shaping/blob/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0/ORIGIN.md) and [CITATION.cff](https://github.com/sinethxyz/shaping/blob/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0/CITATION.cff) | Recorded author attribution and claimed 10 October 2026 provenance | Independent verification of public posts, public repository availability or exclusive originality |
-| [LICENSE.md](https://github.com/sinethxyz/shaping/blob/720fe37f1c3dffb7b111ebdc6bd3fb96cb579dc0/LICENSE.md) | Existing documentation licence and stated limits | New rights over models, data, marks, future assets or third-party material |
+**modelparadox** is an intelligence engineering company exploring how to build an environment in which people can create, adapt, evaluate, operate, and share machine intelligence.
 
-ORIGIN explicitly requests links to original public posts and independent archives when verified; they are not present at this baseline. Preserve the original attribution and citation date as source claims. GitHub's verified private status is separate from any earlier external public proposal. No legal, copyright or licensing term is changed by this alignment.
+The practice is broader than a single product. This repository concerns definitions, examples, critical questions, and conceptual development. Product designs, software implementations, and operational decisions belong in their respective projects.
 
-## Relationship to the first experiment
+## The creative environment
 
-The completed joint Claude/Codex SHAPING-INV-001 investigation led to proposed E1, the first authentic SHAPING experiment, indexed from Meta. E1 proposes configuration-mediated shaping with an existing model so a creator can introduce an incomplete intention, demonstrate a meaningful behavioural distinction, influence a real implementation, investigate consequences and preserve a reusable Creation. This concept repository does not implement or approve E1.
+The proposed direction is not merely a chat interface for issuing instructions or a conventional developer workflow with a new label.
 
-Engineering validity asks whether accepted intervention produces an identifiable, reproducible and persistent technical change with appropriate evidence. Creative validity asks whether the experience affords meaningful expressive control and an advantage over comparable conventional customisation. A successful configuration change, prompt editor, persistent chat or saved configuration alone answers neither complete product question. Negative and inconclusive experimental findings must remain possible.
+The central experience would enable someone to express an incomplete intention, demonstrate what matters, attempt changes to a real machine-intelligence system, observe consequences, evaluate trade-offs, refine direction, and preserve the resulting work.
 
-Creative working state can preserve intention, examples, uncertainty and proposals. It must not fabricate execution truth or turn an assistant's narrative into an observation. Existing Engine contracts remain authoritative for supported operations, without becoming a permanent limit on the medium.
+This is an ambition to investigate, not a demonstrated product outcome.
 
-## Contributor walkthrough
+A Creation might be realised through configuration, prompting, retrieval, tools, model composition, fine-tuning, or other techniques. No specific model architecture, interface, workflow, or data schema is mandated by the conceptual proposal.
 
-Read DEFINITION → PRACTICE → GLOSSARY, then compare the product claims with the canonical contract and actual implementation sources linked through Meta. Use `git ls-files` to inspect what exists and `git diff --check` for documentation whitespace. There is no installation command, runtime demonstration or executable test to run in this baseline. At inspection, GitHub listed only main and no open PR; this alignment uses a separate documentation branch.
+## Two questions that matter
 
-For a proposed definition change, include a concrete counterexample or observable question. Do not convert hypothetical examples into a success story. Creator influence does not imply ownership of underlying weights or data; creation identity, implementation, inspection/export permissions, third-party restrictions and operational authority remain separate. Unsettled policy must remain an open decision, not a term established by explanatory prose.
+An effective shaping experience must address both:
 
-## Open decisions and current design practice
+1. **Creative validity:** Can the person exercise meaningful, understandable influence over the capability or behaviour being developed?
+2. **Engineering validity:** Does an actual, reproducible intervention produce observable change, with evidence of its consequences and limitations?
 
-- Which evidence distinguishes meaningful creative agency from conventional configuration in E1?
-- What participant handoff, comparison baseline and acceptance criteria have been explicitly approved?
-- What minimum continuity is necessary for a reusable Creation without prematurely fixing its schema?
-- Which original public posts and independent archival references can substantiate the recorded provenance claim?
-- Which inspection, retention, export, operation and distribution permissions are available for each implementation?
+A persuasive demonstration, a successful configuration change, or a saved conversation does not by itself establish either complete claim.
 
-Claude is the primary design-engineering environment for creative interaction, visual design and experience development. Codex contributes engineering, architecture, verification and documentation. Figma deliverables are not required; historical designs remain useful. Neither environment has exclusive product authority. The founder retains strategic/product authority, and the final SHAPING interaction remains open. This repository contains no final brand assets; no visual redesign or replacement is authorised by this guide.
+Systems should preserve the difference between what was intended, what was attempted, what was observed, and what was independently evaluated. Negative, mixed, or inconclusive results are legitimate outcomes.
 
-## Wiki and review boundary
+## Boundaries of this repository
 
-GitHub reports wiki enabled, but the wiki Git remote returned “Repository not found”. Its content/history could not be inspected, and the response does not establish whether the cause is lack of initial wiki content or access. Browser access was unavailable as well. No wiki was initialised and no settings were changed. Use this source guide until wiki content can be safely verified; a later wiki should link to source contracts rather than duplicate them.
+This repository currently provides written definitions, proposed terminology, illustrative scenarios, and questions for future research. It does **not** include an executable runtime, model weights, a Creation store, a production application, or an adopted technical standard.
 
-Apply the lightweight Future B review question in CONTRIBUTING. Existing security, attribution, scoped permissions and review requirements remain authoritative. Documentation does not grant permission to train, download weights, spend, deploy, publish, disclose private research, change access or bypass review.
+The seven movements in [PRACTICE.md](PRACTICE.md) are explanatory, not obligatory interface steps. Possible Creation contents are examples, not an established data contract.
+
+Accepting an editorial contribution here does not commit modelparadox or another organisation to a particular architecture, product feature, commercial policy, or technical implementation.
+
+## Research questions
+
+- How do we distinguish creative agency from ordinary configuration?
+- What durable information makes a Creation useful and revisable?
+- How should evaluations, regressions, uncertainty, provenance, and version history be presented?
+- When can an intended behaviour be said to have changed in a reproducible way?
+- Which permissions and third-party rights govern inspection, export, operation, and distribution?
+- Can meaningful shaping be accessible without hiding technical limitations?
+
+These questions should be examined through research, prototypes, comparisons, and clear evidence. Hypothetical examples must not be presented as experimental results.
+
+## Reading and contributing
+
+Start with [README.md](README.md), [DEFINITION.md](DEFINITION.md), [PRACTICE.md](PRACTICE.md), and [GLOSSARY.md](GLOSSARY.md).
+
+For provenance, see [ORIGIN.md](ORIGIN.md) and [CITATION.cff](CITATION.cff). The October 2026 public-presentation date is recorded as an author attribution claim; original publication and archival links have not yet been provided in this repository.
+
+For contributions, see [CONTRIBUTING.md](CONTRIBUTING.md). Ask of substantive proposals: **What meaningful act of shaping might this enable, or what specific obstacle to shaping might it address?**
+
+The written material is made available under the existing [CC BY 4.0 documentation licence](LICENSE.md). This document does not change the licence or confer rights to any third-party models, data, trademarks, or software.
+
+**The goal is to investigate a creative practice rigorously, not to treat a proposed vocabulary as proof of its existence.**

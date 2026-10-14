@@ -1,15 +1,26 @@
 # Agent instructions — shaping
 
-Read README, FUTURE-B, DEFINITION, PRACTICE and CONTRIBUTING before changes. Preserve LICENSE.md, CITATION.cff and ORIGIN.md unless a separately authorised task explicitly requires their amendment. Do not alter intellectual-property terms through documentation alignment.
+This repository primarily contains conceptual documentation, not a runnable SHAPING implementation.
 
-This is a private conceptual repository with no executable implementation or test suite. Public-proposal dates in the founding documents are author provenance claims until independently supported. Conceptual openness and existing documentation licensing do not prove public GitHub release or authorise disclosure of private sources.
+Before changing documentation, read [README.md](README.md), [DEFINITION.md](DEFINITION.md), [PRACTICE.md](PRACTICE.md), [FUTURE-B.md](FUTURE-B.md), and [CONTRIBUTING.md](CONTRIBUTING.md).
 
-For modelparadox product/engineering work, use the [canonical Future B Product Contract](https://github.com/sinethxyz/modelparadox-meta/blob/main/FUTURE-B-PRODUCT-CONTRACT.md). Future B is committed; SHAPING is the intended human activity and Creation the continuing developing product concept. This repository's broader definitions and movements remain proposals. No editorial merge here adopts a Creation schema, interaction primitive or engineering mechanism. The ten-stage prototype is not the required final interface.
+Preserve the existing [LICENSE.md](LICENSE.md), [CITATION.cff](CITATION.cff), and [ORIGIN.md](ORIGIN.md) unless a task specifically authorises changes. Do not infer trademark ownership, exclusive rights over ordinary words, or any new licence from repository edits.
 
-For substantive proposals, answer: **What meaningful act of SHAPING does this enable, or what specific infrastructure capability does it contribute toward enabling such an act?** Where relevant identify the Creation, creative input, intervention, evidence and continuity. Legitimate infrastructure and conceptual critique need a clear purpose, not a manufactured direct interaction. Use existing review without adding an approval bureaucracy.
+## Conceptual integrity
 
-Keep research hypotheses, founder decisions, proposed architecture, implementation and verified results distinct. Creative working state must not fabricate execution truth; the owning Engine contracts remain authoritative for supported operations. Preserve both engineering-validity and creative-validity questions, including negative and inconclusive results. Model, provider, assistant and interface independence are intended direction, not a claim of implemented universal portability.
+- Keep conceptual proposals, research hypotheses, product ambitions, implementations, and verified results distinct.
+- Avoid presenting examples as observed experiments, technical promises, or completed products.
+- SHAPING is proposed as a human creative practice; the terminology does not replace established machine-learning techniques or claim a new scientific standard.
+- The proposed seven movements and possible Creation contents are not mandatory software interfaces or data schemas.
+- A shaper's intention is not evidence that a system has acquired a capability. Preserve the distinction between creative intention, technical intervention, observation, and evaluation.
+- Recognise that creative validity and engineering validity are separate questions, and that negative or inconclusive evidence matters.
 
-Claude is the primary creative/design-engineering environment; Codex contributes engineering, architecture, verification and documentation. Figma is not required. Preserve historical designs and active Claude-owned work. Neither environment has exclusive authority; the founder retains strategic and product decisions.
+## Project boundaries
 
-No document grants new permission to spend, download weights, train, deploy, publish, disclose private material, change collaborators/visibility/licences or bypass review. Preserve scoped authorisation and existing security boundaries. Use documentation/link checks; do not invent setup commands or demonstrations to make a concept repository appear operational.
+This repository documents the practice. It does not authorise changes to modelparadox's internal products, infrastructure, security settings, or private resources. Do not disclose or link to private research, internal roadmaps, access-controlled repositories, or confidential documents in public-facing files.
+
+Do not change repository visibility, publishing permissions, licences, access controls, or third-party rights merely to align documentation. No documentation grants permission to deploy, spend, download weights, train models, or disclose restricted data.
+
+## Validation
+
+Check links and Markdown formatting for the edited documents. There is currently no executable runtime or test suite; do not fabricate installation instructions, demo outputs, or test results. Keep the attribution and provenance limits stated in the founding documents clear.

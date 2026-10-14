@@ -1,39 +1,43 @@
 # Contributing to shaping
 
-The purpose of this repository is to develop a clear and testable account of **shaping** as a human creative practice.
-
-Contributions, critiques, and counterexamples are welcome when collaboration is opened.
+SHAPING is an open conceptual proposal for developing machine intelligence as a human creative practice. We welcome constructive contributions that make the proposed practice clearer, more testable, and more useful.
 
 ## What would help?
 
-- A clearer operational definition, especially examples of where shaping begins and ends.
-- Comparative research into adjacent work: prompt engineering, interactive machine learning, human-in-the-loop learning, agent design, model editing, reward shaping, and related fields.
-- Practical examples of people developing persistent intelligent capabilities.
-- Good ways to preserve evaluations, regressions, boundaries, version history, and provenance.
-- Criticism of overbroad claims, unsupported assumptions, or misleading analogies.
-- Accessibility and governance concerns raised by non-specialist practitioners.
+- Stronger operational definitions and counterexamples that expose unclear boundaries.
+- Comparisons with related work in prompt engineering, interactive machine learning, human-in-the-loop learning, model editing, reward shaping, agent design, and creative tools.
+- Thoughtful examples of people developing persistent intelligent capabilities.
+- Proposals for preserving evaluation evidence, failures, regressions, provenance, and versions.
+- Research into creative agency, accessibility, permissions, safety, attribution, and portability.
+- Criticism of overstated novelty, weak analogies, or unsupported assumptions.
 
-## How to propose a change
+## How to contribute
 
-Open an issue with a concrete question or counterexample, or make a pull request that explains:
+Open an issue with a clear question or counterexample, or propose a pull request explaining:
 
-1. Which definition or principle it affects.
-2. What problem it solves, with evidence when appropriate.
-3. What the change would imply for the practice.
+1. Which definition, principle, or question you want to address.
+2. What evidence or reasoning supports your proposed change.
+3. What would be different if the change were adopted.
 
-Do not assume a proposed term is settled merely because it appears here.
+For a substantive proposal, consider: **What meaningful act of SHAPING does this enable, or what obstacle to shaping does it address?**
 
-## Relationship to modelparadox product decisions
+Please distinguish hypotheses, proposed designs, observed findings, and independently verified results. Hypothetical examples should be labelled as such. Existing technical terminology should not be redefined merely for branding.
 
-Read [FUTURE-B.md](FUTURE-B.md) for current state and the [canonical Product Contract](https://github.com/sinethxyz/modelparadox-meta/blob/main/FUTURE-B-PRODUCT-CONTRACT.md) for modelparadox's committed direction. Distinguish a conceptual proposal, a research hypothesis, a founder-approved product requirement and demonstrated implementation. A change merged here does not adopt a Creation schema, interaction primitive or architecture for modelparadox.
+## Concept versus implementation
 
-For substantive product or engineering proposals, explain: **What meaningful act of SHAPING does this enable, or what specific infrastructure capability does it contribute toward enabling such an act?** Where relevant identify creative input, technical intervention, evidence and continuity. Conceptual critique and legitimate supporting infrastructure remain useful without pretending to be a complete SHAPING experience. Use existing review and preserve founder authority; no additional approval bureaucracy is introduced.
+This repository develops a proposed vocabulary and conceptual account. It does not establish an industry standard, an official technical architecture, a fixed Creation schema, or a universal workflow.
 
-The repository is currently private. Do not infer public publication, new access, deployment, spending or permission to disclose private research from conceptual openness or the licence statement. Proposed results must stay hypothetical until supported by identified evidence. Preserve the source attribution and existing licensing terms.
+A change accepted here does not constitute adoption by [modelparadox](https://modelparadox.com), another company, or the wider AI field. Product and engineering decisions require their own design, evidence, and review.
 
-## Licensing and attribution
+Please do not publish confidential documents, private code, access credentials, personal data, proprietary datasets, restricted model weights, or third-party materials without the relevant rights.
 
-By contributing original documentation, you agree to provide it under the repository's [CC BY 4.0 documentation licence](LICENSE.md), unless explicitly agreed otherwise. Keep authorship and third-party attribution clear. Do not contribute proprietary datasets, copied protected material, private user information, or model weights without sufficient rights.
+## Licence and attribution
+
+By contributing original copyrightable documentation, you agree that it may be shared under this repository's [CC BY 4.0 documentation licence](LICENSE.md), unless a different arrangement is expressly agreed in advance.
+
+Respect existing authorship, research citations, and third-party rights. Do not imply that the licence grants exclusive rights to ordinary words, underlying methods, marks, or patents.
+
+See [ORIGIN.md](ORIGIN.md) for the recorded origin and [CITATION.cff](CITATION.cff) for citation details.
 
 ## Editorial principle
 
