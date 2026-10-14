@@ -23,6 +23,14 @@ Open an issue with a concrete question or counterexample, or make a pull request
 
 Do not assume a proposed term is settled merely because it appears here.
 
+## Relationship to modelparadox product decisions
+
+Read [FUTURE-B.md](FUTURE-B.md) for current state and the [canonical Product Contract](https://github.com/sinethxyz/modelparadox-meta/blob/main/FUTURE-B-PRODUCT-CONTRACT.md) for modelparadox's committed direction. Distinguish a conceptual proposal, a research hypothesis, a founder-approved product requirement and demonstrated implementation. A change merged here does not adopt a Creation schema, interaction primitive or architecture for modelparadox.
+
+For substantive product or engineering proposals, explain: **What meaningful act of SHAPING does this enable, or what specific infrastructure capability does it contribute toward enabling such an act?** Where relevant identify creative input, technical intervention, evidence and continuity. Conceptual critique and legitimate supporting infrastructure remain useful without pretending to be a complete SHAPING experience. Use existing review and preserve founder authority; no additional approval bureaucracy is introduced.
+
+The repository is currently private. Do not infer public publication, new access, deployment, spending or permission to disclose private research from conceptual openness or the licence statement. Proposed results must stay hypothetical until supported by identified evidence. Preserve the source attribution and existing licensing terms.
+
 ## Licensing and attribution
 
 By contributing original documentation, you agree to provide it under the repository's [CC BY 4.0 documentation licence](LICENSE.md), unless explicitly agreed otherwise. Keep authorship and third-party attribution clear. Do not contribute proprietary datasets, copied protected material, private user information, or model weights without sufficient rights.
